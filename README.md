@@ -36,4 +36,4 @@ This project demonstrates the step-by-step implementation of a neural network fr
 ## Conclusion
 The project successfully implements a neural network from scratch, emphasizing the importance of clear training workflows and visual analysis.
 
-
+Creadits : Prof. Claire David -> https://clairedavid.github.io/intro_to_ml/intro.html
